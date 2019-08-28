@@ -42,13 +42,6 @@ public class MainActivity extends AppCompatActivity {
         number=(TextView)findViewById(R.id.text);
 
 
-//        button1.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                crunchifyEditText.setText(crunchifyEditText.getText() + "1");
-//            }
-//        });
-
 
         b0.setOnClickListener(new View.OnClickListener() {
             @Override
